@@ -4,3 +4,9 @@
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #b800e6, 0 0 40px #b800e6,
     0 0 50px #b800e6, 0 0 60px #b800e6, 0 0 70px #b800e6;
 }
+.title:hover {
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073,
+    0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
